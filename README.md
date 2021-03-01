@@ -18,4 +18,4 @@
    - Servidor: Simples com dados previamente cadastrados, uma vez que suas funções como GET, POST, PUT e DELET já são nativas para seu uso.
    - CRUD: Crud completo para cadastro de usuários, utilizando de componentização para realizar a população de lista com reactJS
    
-   Desenvolvido em **2021
+   Desenvolvido em **2021**
